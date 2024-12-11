@@ -1,0 +1,402 @@
+[
+    {
+        "@system": "ops.epo.org",
+        "@family-id": "62110484",
+        "document-id": {
+            "@document-id-type": "docdb",
+            "country": {
+                "$": "ES"
+            },
+            "doc-number": {
+                "$": "2986300"
+            },
+            "kind": {
+                "$": "T3"
+            }
+        }
+    },
+    {
+        "@system": "ops.epo.org",
+        "@family-id": "60320957",
+        "document-id": {
+            "@document-id-type": "docdb",
+            "country": {
+                "$": "LT"
+            },
+            "doc-number": {
+                "$": "3694631"
+            },
+            "kind": {
+                "$": "T"
+            }
+        }
+    },
+    {
+        "@system": "ops.epo.org",
+        "@family-id": "88730560",
+        "document-id": {
+            "@document-id-type": "docdb",
+            "country": {
+                "$": "CN"
+            },
+            "doc-number": {
+                "$": "118946405"
+            },
+            "kind": {
+                "$": "A"
+            }
+        }
+    },
+    {
+        "@system": "ops.epo.org",
+        "@family-id": "84362098",
+        "document-id": {
+            "@document-id-type": "docdb",
+            "country": {
+                "$": "JP"
+            },
+            "doc-number": {
+                "$": "2024541242"
+            },
+            "kind": {
+                "$": "A"
+            }
+        }
+    },
+    {
+        "@system": "ops.epo.org",
+        "@family-id": "60812126",
+        "document-id": {
+            "@document-id-type": "docdb",
+            "country": {
+                "$": "ES"
+            },
+            "doc-number": {
+                "$": "2986055"
+            },
+            "kind": {
+                "$": "T3"
+            }
+        }
+    },
+    {
+        "@system": "ops.epo.org",
+        "@family-id": "54199592",
+        "document-id": {
+            "@document-id-type": "docdb",
+            "country": {
+                "$": "ES"
+            },
+            "doc-number": {
+                "$": "2985623"
+            },
+            "kind": {
+                "$": "T3"
+            }
+        }
+    },
+    {
+        "@system": "ops.epo.org",
+        "@family-id": "68424939",
+        "document-id": {
+            "@document-id-type": "docdb",
+            "country": {
+                "$": "ES"
+            },
+            "doc-number": {
+                "$": "2985580"
+            },
+            "kind": {
+                "$": "T3"
+            }
+        }
+    },
+    {
+        "@system": "ops.epo.org",
+        "@family-id": "88201913",
+        "document-id": {
+            "@document-id-type": "docdb",
+            "country": {
+                "$": "JP"
+            },
+            "doc-number": {
+                "$": "WO2023190609"
+            },
+            "kind": {
+                "$": "A1"
+            }
+        }
+    },
+    {
+        "@system": "ops.epo.org",
+        "@family-id": "88201844",
+        "document-id": {
+            "@document-id-type": "docdb",
+            "country": {
+                "$": "JP"
+            },
+            "doc-number": {
+                "$": "WO2023190600"
+            },
+            "kind": {
+                "$": "A1"
+            }
+        }
+    },
+    {
+        "@system": "ops.epo.org",
+        "@family-id": "88201899",
+        "document-id": {
+            "@document-id-type": "docdb",
+            "country": {
+                "$": "JP"
+            },
+            "doc-number": {
+                "$": "WO2023190603"
+            },
+            "kind": {
+                "$": "A1"
+            }
+        }
+    },
+    {
+        "@system": "ops.epo.org",
+        "@family-id": "63273146",
+        "document-id": {
+            "@document-id-type": "docdb",
+            "country": {
+                "$": "CN"
+            },
+            "doc-number": {
+                "$": "118904035"
+            },
+            "kind": {
+                "$": "A"
+            }
+        }
+    },
+    {
+        "@system": "ops.epo.org",
+        "@family-id": "88201899",
+        "document-id": {
+            "@document-id-type": "docdb",
+            "country": {
+                "$": "CN"
+            },
+            "doc-number": {
+                "$": "118922381"
+            },
+            "kind": {
+                "$": "A"
+            }
+        }
+    },
+    {
+        "@system": "ops.epo.org",
+        "@family-id": "88195402",
+        "document-id": {
+            "@document-id-type": "docdb",
+            "country": {
+                "$": "CN"
+            },
+            "doc-number": {
+                "$": "118922390"
+            },
+            "kind": {
+                "$": "A"
+            }
+        }
+    },
+    {
+        "@system": "ops.epo.org",
+        "@family-id": "57228748",
+        "document-id": {
+            "@document-id-type": "docdb",
+            "country": {
+                "$": "CN"
+            },
+            "doc-number": {
+                "$": "118904027"
+            },
+            "kind": {
+                "$": "A"
+            }
+        }
+    },
+    {
+        "@system": "ops.epo.org",
+        "@family-id": "85155876",
+        "document-id": {
+            "@document-id-type": "docdb",
+            "country": {
+                "$": "US"
+            },
+            "doc-number": {
+                "$": "2024367098"
+            },
+            "kind": {
+                "$": "A1"
+            }
+        }
+    },
+    {
+        "@system": "ops.epo.org",
+        "@family-id": "93293682",
+        "document-id": {
+            "@document-id-type": "docdb",
+            "country": {
+                "$": "US"
+            },
+            "doc-number": {
+                "$": "2024367113"
+            },
+            "kind": {
+                "$": "A1"
+            }
+        }
+    },
+    {
+        "@system": "ops.epo.org",
+        "@family-id": "80446057",
+        "document-id": {
+            "@document-id-type": "docdb",
+            "country": {
+                "$": "US"
+            },
+            "doc-number": {
+                "$": "2024367093"
+            },
+            "kind": {
+                "$": "A1"
+            }
+        }
+    },
+    {
+        "@system": "ops.epo.org",
+        "@family-id": "85036263",
+        "document-id": {
+            "@document-id-type": "docdb",
+            "country": {
+                "$": "US"
+            },
+            "doc-number": {
+                "$": "2024367094"
+            },
+            "kind": {
+                "$": "A1"
+            }
+        }
+    },
+    {
+        "@system": "ops.epo.org",
+        "@family-id": "68293398",
+        "document-id": {
+            "@document-id-type": "docdb",
+            "country": {
+                "$": "US"
+            },
+            "doc-number": {
+                "$": "2024368776"
+            },
+            "kind": {
+                "$": "A1"
+            }
+        }
+    },
+    {
+        "@system": "ops.epo.org",
+        "@family-id": "69587109",
+        "document-id": {
+            "@document-id-type": "docdb",
+            "country": {
+                "$": "US"
+            },
+            "doc-number": {
+                "$": "2024368491"
+            },
+            "kind": {
+                "$": "A1"
+            }
+        }
+    },
+    {
+        "@system": "ops.epo.org",
+        "@family-id": "85200321",
+        "document-id": {
+            "@document-id-type": "docdb",
+            "country": {
+                "$": "US"
+            },
+            "doc-number": {
+                "$": "2024368975"
+            },
+            "kind": {
+                "$": "A1"
+            }
+        }
+    },
+    {
+        "@system": "ops.epo.org",
+        "@family-id": "86159633",
+        "document-id": {
+            "@document-id-type": "docdb",
+            "country": {
+                "$": "US"
+            },
+            "doc-number": {
+                "$": "2024367986"
+            },
+            "kind": {
+                "$": "A1"
+            }
+        }
+    },
+    {
+        "@system": "ops.epo.org",
+        "@family-id": "66630268",
+        "document-id": {
+            "@document-id-type": "docdb",
+            "country": {
+                "$": "KR"
+            },
+            "doc-number": {
+                "$": "20240152974"
+            },
+            "kind": {
+                "$": "A"
+            }
+        }
+    },
+    {
+        "@system": "ops.epo.org",
+        "@family-id": "90480977",
+        "document-id": {
+            "@document-id-type": "docdb",
+            "country": {
+                "$": "KR"
+            },
+            "doc-number": {
+                "$": "102718341"
+            },
+            "kind": {
+                "$": "B1"
+            }
+        }
+    },
+    {
+        "@system": "ops.epo.org",
+        "@family-id": "78918771",
+        "document-id": {
+            "@document-id-type": "docdb",
+            "country": {
+                "$": "KR"
+            },
+            "doc-number": {
+                "$": "20240151736"
+            },
+            "kind": {
+                "$": "A"
+            }
+        }
+    }
+]
