@@ -6,6 +6,27 @@ import os
 import xml.etree.ElementTree as ET
 
 
+def get_patent_claims(doc_number, token):
+    url = f"http://ops.epo.org/rest-services/published-data/publication/epodoc/{doc_number}/claims"
+    headers = {
+        'Authorization': f'Bearer {token}',
+        'Accept': 'application/exchange+xml',
+    }
+    response = requests.get(url, headers=headers)
+    if response.status_code == 200:
+        try:
+            root = ET.fromstring(response.text)
+            return root
+        except ET.ParseError as e:
+            error_message = f"Error al analizar el XML: {e}"
+            return error_message
+    elif response.status_code == 404:
+        error_message = f"Error 404: No se encontró claims para el documento {doc_number}"
+        return error_message
+    else:
+        error_message = f"Error en la consulta de claims ({response.status_code}) para el documento {doc_number}"
+        return error_message
+    
 def get_access_token(client_key, client_secret):
     credentials = f"{client_key}:{client_secret}"
     encoded_credentials = base64.b64encode(credentials.encode()).decode()
